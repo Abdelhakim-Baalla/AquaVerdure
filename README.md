@@ -1,5 +1,8 @@
 # Modèle de Capteur d'humidité de sol avec écran LCD
 
+## Schéma de câblage
+> ![Schéma du circuit complet](humidite-de-sol-avec-LCD.png)
+
 ## Description du projet
 
 Ce projet Arduino permet de mesurer l’humidité du sol à l’aide d’un capteur analogique et d’afficher les résultats sur un écran LCD I2C. Il est idéal pour surveiller l’arrosage des plantes et sensibiliser à l’humidité du sol de façon ludique et interactive. L’interface propose des animations et des conseils dynamiques selon le niveau d’humidité détecté.
@@ -19,10 +22,6 @@ Ce projet Arduino permet de mesurer l’humidité du sol à l’aide d’un capt
 - Câbles de connexion
 - (Optionnel) Résistances, breadboard
 
-## Schéma de câblage
-
-
-> ![Schéma du circuit complet]()
 
 ## Installation et utilisation
 1. Connectez le capteur d’humidité à la broche analogique A0 de l’Arduino.
