@@ -1,5 +1,7 @@
 # Modèle de Capteur d'humidité de sol avec écran LCD
 
+[Montage du capteur et de l’écran](https://github.com/Abdelhakim-Baalla/AquaVerdure/blob/main/humidite-de-sol-avec-LCD.png)
+
 ## Schéma de câblage
 > ![Schéma du circuit complet](humidite-de-sol-avec-LCD.png)
 
